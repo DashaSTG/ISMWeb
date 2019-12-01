@@ -1,0 +1,81 @@
+table{
+    border-collapse: collapse;
+}
+
+.startTable tr td {
+    border: 2px solid gray;
+    padding: 20px;
+}
+
+.fifthTable tr td {
+    border: 3px solid #993300;
+    padding: 20px;
+    font-family: "Comic Sans MS";
+    background-color: #f3e1c7;
+    text-transform: uppercase;
+}
+.fifthTable .header {
+    background-color: #2e4e96;
+    color: orange;
+    font-family: "Calibri";
+    font-size: 24px;
+}
+.fifthTable .news {
+    background-color: #2e4e96;
+    color: white;
+    height: 100px;
+    text-transform: none;
+}
+
+.sixthTable tr td{
+    border: 3px solid #c3de91;
+    padding: 20px;
+    font-family: "Comic Sans MS";
+    text-transform: uppercase;
+    background-color: #daddc7;
+    width: 200px;
+}
+.sixthTable .header{
+    color: yellow;
+    background-color: #16470b;
+    font-family: "Calibri";
+    font-size: 24px;
+    height: 30px;
+}
+.sixthTable .menu{
+    color: darkgreen;
+    background-color: #c4bb2d;
+    height: 200px;
+}
+.sixthTable .footer{
+    color: yellow;
+    background-color: #16470b;
+}
+
+.seventhTable tr td{
+    border: 3px solid #8f2d0c;
+    padding: 20px;
+    font-family: "Comic Sans MS";
+    text-transform: uppercase;
+    background-color: #f3e1c7;
+    width: 200px;
+}
+.seventhTable .header{
+    color: darkslateblue;
+    background-color: #a27eb3;
+    font-family: "Calibri";
+    font-size: 24px;
+    height: 30px;
+}
+.seventhTable .news{
+    background-color: #480468;
+    color: white;
+    height: 100px;
+    text-transform: none;
+    height: 300px;
+    width: 70px;
+}
+.seventhTable .menu{
+    background-color: #e6caf3;
+    height: 30px;
+}
